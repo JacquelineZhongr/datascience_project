@@ -1,5 +1,5 @@
 # Recipe Investigation: 
-# What types of recipes tend to have higher average ratings?
+# Part I: What types of recipes tend to have higher average ratings?
 
 
 
@@ -142,8 +142,7 @@ The p-value we got is 0.0 which imply that we are rejecting the null hypothesis,
 ---
 
 
-# Recipe labeling specifically for label "Dietary" 
-# Predict if the recipe would be labled as "dietary" or not.
+# Part II:Predict if the recipe would be labled as "dietary" or not.
 
 
 ## Framing the Problem
