@@ -139,8 +139,7 @@ The p-value we got is 0.0 which imply that we are rejecting the null hypothesis,
 
 
 ---
-# Recipe labeling specifically for label "Dietary" 
-# Predict if the recipe would be labled as "dietary" or not.
+# PartII: Predict if the recipe would be labled as "dietary" or not.
 
 
 ## Framing the Problem
